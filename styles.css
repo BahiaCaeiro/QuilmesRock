@@ -95,21 +95,6 @@ header {
   padding-right: 1.2rem;
 }
 
-.menu-nav a::after {
-  content: "";
-
-  position: absolute;
-  left: 0;
-  bottom: -0.3rem;
-
-  width: 0%;
-  height: 0.12rem;
-
-  background: #e63946;
-
-  transition: 0.3s;
-}
-
 .menu-nav a:hover {
   color: #ffffff;
 }
